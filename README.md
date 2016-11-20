@@ -1,4 +1,3 @@
-# eyga-server-utils
-===================
+# Eyga Server Utilities
 
-Small Linux server utilities.
+Small utilities for Linux (Debian / Ubuntu) server.
